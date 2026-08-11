@@ -2,7 +2,7 @@
     "name": "react-collection-checklist",
     "module": "./dist/index.mjs",
     "type": "module",
-    "version": "4.0.1",
+    "version": "4.0.2",
     "description": "Simple component to create a checklist for collections.",
     "repository": "git@github.com/HerrTuring/react-collection-checklist.git",
     "author": "HerrTuring",
